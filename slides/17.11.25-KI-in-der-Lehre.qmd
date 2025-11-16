@@ -2,7 +2,7 @@
 title: KI in der Lehre
 ---
 
-<iframe src="17.11.25-KI-in-der-Lehre/index.html" height="500px" class="ratio ratio-16x9"></iframe>
+<iframe src="https://slides.com/stefanhackstein/ki-lehre/embed" width="576" height="420" title="KI in der Lehre" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ::: {layout-ncol=2}
 
