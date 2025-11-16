@@ -9,7 +9,7 @@ title: KI in der Lehre
 
 ::: {layout-ncol=2}
 
-[Download slides as PDF](ki-lehre.pdf)
+<a href="ki-lehre.pdf" download>Download slides as PDF</a>
 
 {{< qrcode ki-lehre.pdf>}}
 
