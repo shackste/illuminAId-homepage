@@ -1,0 +1,204 @@
+---
+title: Leistungen
+---
+
+Hier finden Sie eine Übersicht des Leistungsangebots der illuminAId GmbH.
+Gerne erhalten Sie ein Angebot für ihre Wunschveranstaltung.
+
+<info@illuminAId.de>  
+
+Erhalten Sie Infos zu öffentlichen Veranstaltungen, Online Seminaren und weiteren Angeboten.
+Einfach eine Mail mit Betreff "Abonnieren" an
+
+<a href="mailto:newsletter@illuminAId.de?subject=Abonnieren">newsletter@illuminAId.de</a>.
+
+</details> 
+
+<details> 
+<summary><h2 style="display: inline-block;">Beratungen</h2></summary>
+
+Die Beratungen richten sich vornehmlich an
+
+- Schulen
+- Institute
+- Unternehmen
+
+
+Die typischen Themenschwerpunkte sind
+
+- Einsatz von KI Assistenten
+- benötigte Kenntnisse & Schulungen
+- Entwickeln & Umsetzen eigener KI-Projekte (z. B. KI-Tutoren, spezialisierung & fine-tuning von Assistenten, Multiagentische KI-Systeme)
+
+
+Ziel ist dabei stets
+
+- Produktivität zu steigern und Menschen zu entlasten
+- Mehrwert zu schaffen statt Arbeit billig zu ersetzen
+- Europäische Rechtsstandards sicherzustellen
+
+</details> 
+
+<details> 
+<summary><h2 style="display: inline-block;">Vorträge</h2></summary>
+
+Richtungsweisender Überblick über das KI Chaos.
+
+Themenschwerpunkte:
+
+  - KI in der Lehre:
+    
+      - Einfluss auf Lernen und Lehren
+      - KI-Kompetenz und KI-Lernkompetenz vermitteln
+      - Lernfördernder Einsatz von KI
+      - KI-kompatibler Unterricht
+    
+  
+  - Lernen mit KI
+    
+      - sinnvoller Einsatz in Schule & Studium
+      - kognitive Erweiterung statt kognitiver Schuld
+    
+  
+  - KI: Revolution oder Hype?
+  - KI, Bullshit und Verschwörung
+  - Deep Learning
+
+</details> 
+
+<details> 
+<summary><h2 style="display: inline-block;">Schulungen</h2></summary>
+
+::: {.workshop-card}
+### Workshop: KI in der Praxis
+<div class="workshop-meta">
+Hands-On Workshop (4h) einmalig vor Ort | Zielgruppe: Arbeitnehmer
+</div>
+
+<div class="workshop-description">
+Hands-On mit eingängigem Input, praktischen Übungen und Gelegenheit, Experten Ihre Fragen zu stellen.
+</div>
+
+#### Inhalt:
+
+  - Möglichkeiten und Grenzen von KI
+  - Prompting: Dummy to Master
+  - KI-Assistenten richtig nutzen
+
+:::
+
+
+::: {.workshop-card}
+### Workshop: KI als Lehrassistent
+<div class="workshop-meta">
+Hands-On Workshop (4h) einmalig vor Ort | Zielgruppe: Lehrkräfte (Sek I-III)
+</div>
+
+<div class="workshop-description">
+Hands-On mit eingängigem Input, praktischen Übungen und Gelegenheit, Experten Ihre Fragen zu stellen.
+</div>
+
+#### Inhalt:
+
+  - Unterricht vorbereiten mit KI
+  - (Mit) KI unterrichten
+  - KI-kompatible Prüfungen
+
+:::
+
+
+
+::: {.workshop-card}
+### Workshop: Lernen / Studieren mit KI
+<div class="workshop-meta">
+Hands-On Workshop (4h) einmalig vor Ort | Zielgruppe: Studenten & Schüler (Sek II & III)
+</div>
+
+<div class="workshop-description">
+Hands-On mit eingängigem Input, praktischen Übungen und Gelegenheit, Experten Ihre Fragen zu stellen.
+</div>
+
+#### Inhalt:
+
+  - Wie beeinflusst KI das Lernen?
+  - Hausaufgaben mit KI
+  - Besser lernen mit KI
+
+:::
+</details>
+
+<details> 
+<summary><h2 style="display: inline-block;">Online Kurse</h2></summary>
+
+Die Daten für die nächste Durchführung werden noch bestimmt und über den <a href="mailto:newsletter@illuminAId.de?subject=Abonnieren">Newsletter</a> bekannt gegeben.  
+
+Gerne können Sie sich einen Platz auf der Warteliste sichern um bei der Teilnehmerauswahl bevorzugt zu werden. 
+Senden Sie dazu einfach eine Email mit Ihrem Namen an <a href="mailto:warteliste@illuminAId.de?subject=Warteliste Kurs: ...">warteliste@illuminAId.de</a>.
+
+::: {.online-card}
+### Unterricht vorbereiten mit KI
+<div class="online-meta">
+Online-Kurs, Dauer: 8 Wochen, zwei-wöchentliche Besprechung (1h) online |  
+Zielgruppe: Lehrkräfte
+</div>
+
+<div class="online-description">
+Flipped Classroom mit Selbstlernmaterial, praktischer Anwendung auf den eigenen Unterricht und Gelegenheit, Experten Ihre Fragen zu stellen.
+</div>
+
+#### Inhalt:
+
+- Unterricht optimieren
+- Kursinhalte planen
+- Musterlösung schreiben
+
+:::
+
+
+::: {.online-card}
+### Unterrichten mit KI
+<div class="online-meta">
+Online-Kurs, Dauer: 8 Wochen, zwei-wöchentliche Besprechung (1h) online |  
+Zielgruppe: Lehrkräfte
+</div>
+
+<div class="online-description">
+Flipped Classroom mit Selbstlernmaterial, praktischer Anwendung auf den eigenen Unterricht und Gelegenheit, Experten Ihre Fragen zu stellen.
+</div>
+
+#### Inhalt:
+
+- Effiziente Nutzung durch Studierende
+- KI-sichere Aufgaben erstellen
+- Zu effizienter Nutzung anleiten
+
+:::
+
+
+::: {.online-card}
+### Prüfungen mit KI
+<div class="online-meta">
+Online-Kurs, Dauer: 8 Wochen, zwei-wöchentliche Besprechung (1h) online |  
+Zielgruppe: Lehrkräfte
+</div>
+
+<div class="online-description">
+Flipped Classroom mit Selbstlernmaterial, praktischer Anwendung auf den eigenen Unterricht und Gelegenheit, Experten Ihre Fragen zu stellen.
+</div>
+
+#### Inhalt:
+
+- KI als Korrekturhilfe
+- KI-sichere Hausarbeiten
+- KI in Prüfungen
+
+:::
+</details> 
+
+<details> 
+<summary><h2 style="display: inline-block;">Hosting von KI-Systemen</h2></summary>
+Sie möchten Ihr eigenes KI Modell verwenden, haben aber nicht das nötige Datacenter?
+Sie legen Wert auf lückenlose Europäische / Schweizer Jurisdiktion im gesamten Prozess?  
+Die illuminAId GmbH übernimmt für Sie die Suche nach einem passenden Datencenter, hilft bei der Wahl eines geeigneten KI-Basismodells, bereitet dieses vor und unterstützt beim fine-tuning. 
+Dieser Service befindet sich noch im Aufbau.
+</details> 

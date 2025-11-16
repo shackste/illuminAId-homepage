@@ -1,0 +1,52 @@
+/*-- scss:rules --*/
+.workshop-card {
+  /* Fügt einen Rand, Schatten und Abstand hinzu, um die Karte abzugrenzen */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #f9f9f9;
+}
+
+.workshop-title {
+  color: #0056b3;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.workshop-meta {
+  font-size: 0.9rem;
+  color: #555555;
+  margin-bottom: 15px;
+}
+
+.workshop-description {
+  margin-bottom: 15px;
+}
+
+.online-card {
+  /* Fügt einen Rand, Schatten und Abstand hinzu, um die Karte abzugrenzen */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: #f9f9f9;
+}
+
+.online-title {
+  color: #0056b3;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.online-meta {
+  font-size: 0.9rem;
+  color: #555555;
+  margin-bottom: 15px;
+}
+
+.online-description {
+  margin-bottom: 15px;
+}

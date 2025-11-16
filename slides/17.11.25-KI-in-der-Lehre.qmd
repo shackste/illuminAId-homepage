@@ -1,0 +1,13 @@
+---
+title: KI in der Lehre
+---
+
+<iframe src="17.11.25-KI-in-der-Lehre/index.html" height="500px" class="ratio ratio-16x9"></iframe>
+
+::: {layout-ncol=2}
+
+[Download slides as PDF](17.11.25-KI-in-der-Lehre/ki-lehre.pdf)
+
+{{< qrcode https://illuminAId.eu/slides/17.11.25-KI-in-der-Lehre.html>>}}
+
+:::

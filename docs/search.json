@@ -1,0 +1,137 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF file.\n\n\n\n\n  Email    LinkedIn \n Back to top"
+  },
+  {
+    "objectID": "portfolio/videos.html",
+    "href": "portfolio/videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "Didaktik mit KI\nFlipped Classroom\nHalf-Flip Classroom\nLernen mit Chatbots\nMathe lernen mit Chatbots\nKI – Grundwissen\nWarum Astrophysik?\n\n\n\n\n\n  Email    LinkedIn \n Back to top",
+    "crumbs": [
+      "Portfolio",
+      "Videos"
+    ]
+  },
+  {
+    "objectID": "portfolio/podcast.html",
+    "href": "portfolio/podcast.html",
+    "title": "Podcast",
+    "section": "",
+    "text": "In meinem Podcast Modern Hawking - Science Talking spreche ich mit Mathilde (Neurowissenschaftlerin) über Wissenschaft, Lernen und Lehren.\n\n\n\n\n  Email    LinkedIn \n Back to top",
+    "crumbs": [
+      "Portfolio",
+      "Podcast"
+    ]
+  },
+  {
+    "objectID": "portfolio/media.html",
+    "href": "portfolio/media.html",
+    "title": "Medienauftritte",
+    "section": "",
+    "text": "Nachtcafe – über meinen Weg aus dem Verschwörungsglauben\nSWR\n37 Grad: Mein Ausstieg aus dem Verschwörungsglauben\nZDF\nUnbubble: Astrophysiker trifft Astrologen\nZDF\n\n\n\n\n\n  Email    LinkedIn \n Back to top",
+    "crumbs": [
+      "Portfolio",
+      "Medienauftritte"
+    ]
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Hier finden Sie eine Übersicht meines Schaffens: Workshops, Vorlesungen, öffentliche Vorträge, wissenschaftliche Publikationen, Medienauftritte und selbst produzierte Videos, meinen Podcast sowie veröffentlichte Programmcodes.\n\n\n\n\n  Email    LinkedIn \n Back to top",
+    "crumbs": [
+      "Portfolio",
+      "Übersicht"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Stefan Hackstein",
+    "section": "",
+    "text": "Experte für Arbeiten, Lehren und Lernen mit KI\nAls promovierter Physiker, Datenwissenschaftler und Dozent stehen meine Kenntnisse am Schnittpunkt zwischen künstlicher Intelligenz, Lehre und Wissenschaft. Mit grosser Begeisterung teste ich verschiedenste Einsatzmöglichkeiten dieser Technologie, immer mit kritischem Blick auf den erreichten Mehrwert, sowie auf die damit verbundenen Kosten und Gefahren, sowohl für die Gesellschaft als auch für den einzelnen Nutzer. Mit meinem Talent, abstrakt theoretische Konzepte in lebhafte Handlungsanweisungen zu verwandeln, vermittle ich leidenschaftlich meine Expertise in Vorlesungen, Workshops und Vorträgen.\nWissenschaftliches und kreatives Denken vereine ich mit einem feinen Gespür für verschiedenste Fehlerquellen im Denkprozess, sowohl beim Mensch als auch bei der KI. Damit biete ich ein einzigartiges Verständnis zur konstruktiven Nutzung von KI-Tools sowie die Auswirkungen auf Produkt und Benutzer.\nDiese transformativen Einsichten möchte ich gern mit Ihnen teilen, z. B. in Form von Vorträgen, Workshops oder Konsultationen. Bei Interesse kontaktieren sie mich gern einfach per Email: shackst3@gmail.com\nUnter Portfolio finden Sie eine Auswahl meiner bisherigen Leistungen.\n\n\n\n  Email    LinkedIn \n Back to top"
+  },
+  {
+    "objectID": "portfolio/codes.html",
+    "href": "portfolio/codes.html",
+    "title": "Programmiercodes",
+    "section": "",
+    "text": "Evaluation Metrics for galaxy image generators\ngithub\ngalaxy image generators (genAI: VAE, GAN & Diffusion)\nDiffusion\nGAN\nPrEFRBLE: Probability Estimates for Fast Radio Bursts to model Likelihood Estimates (Framework for Cosmological Bayesian Inference) github\n\n\n\n\n\n  Email    LinkedIn \n Back to top",
+    "crumbs": [
+      "Portfolio",
+      "Programmcodes"
+    ]
+  },
+  {
+    "objectID": "portfolio/lectures.html",
+    "href": "portfolio/lectures.html",
+    "title": "Vorlesungen",
+    "section": "",
+    "text": "Meine Vorlesungen sind nach dem Prinzip des Half-Flip Classroom aufgebaut, welcher die Vorteile von Flipped Classroom und klassischer Vorlesung miteinander verbindet. (Mehr dazu in meinem Video)\nBisher habe ich folgende Vorlesungen nach diesem Prinzip konzipiert und gehalten:\n\nVertiefung Analysis (Data Science & Informatik) FHNW, Studiengang BSc Data Science & BSc Informatik, Lernvideos\n\nMathematische Grundlagen der Informatik FHNW, Studiengang BSc Informatik\n\n\n\n\n\n  Email    LinkedIn \n Back to top",
+    "crumbs": [
+      "Portfolio",
+      "Vorlesungen"
+    ]
+  },
+  {
+    "objectID": "portfolio/papers.html",
+    "href": "portfolio/papers.html",
+    "title": "Wissenschaftliche Publikationen",
+    "section": "",
+    "text": "Titel\nAutoren\nJournal / Quelle\nJahr\n\n\n\n\nEvaluation Metrics for Galaxy Image Generators\nHackstein, S., Kinakh, V., Bailer, C., Melchior, M.\nAstronomy & Computation\n2023\n\n\nFast radio burst redshift distribution and the missing baryons\nHackstein, S., Brüggen, M., Vazza, F.\nMonthly Notices of the Royal Astronomical Society\n2021\n\n\nRedshift estimates for fast radio bursts and implications on intergalactic magnetic fields\nHackstein, S., Brüggen, M., Vazza, F., Rodrigues, L. F. S.\nMNRAS\n2020\n\n\nPrEFRBLE: Probability Estimates for Fast Radio Bursts to obtain model Likelihood Estimates\nHackstein, S.\nZenodo\n2020\n\n\nFast radio burst dispersion measures and rotation measures and the origin of intergalactic magnetic fields\nHackstein, S., Vazza, F., Brüggen, M., Gaensler, B. M., Heesen, V.\nMNRAS\n2019\n\n\nPropagation of UHECRs in the local Universe and origin of cosmic magnetic fields\nHackstein, S., Vazza, F., Brüggen, M., Sorce, J. G., Gottlöber, S.\nProceedings of IAU Focus Meeting 8\n2019\n\n\nSimulations of ultra-high Energy Cosmic Rays in the local Universe and the origin of Cosmic Magnetic Fields\nHackstein, S., Vazza, F., Brüggen, M., Sorce, J. G., Gottlöber, S.\nMNRAS\n2018\n\n\nPropagation of ultrahigh energy cosmic rays in extragalactic magnetic fields: a view from cosmological simulations\nHackstein, S., Vazza, F., Brüggen, M., Sigl, G., Dundovic, A.\nMNRAS\n2016\n\n\n\nWeitere Publikationen als Coautor: volle Liste\n\n\n\n\n  Email    LinkedIn \n Back to top",
+    "crumbs": [
+      "Portfolio",
+      "Publikationen"
+    ]
+  },
+  {
+    "objectID": "portfolio/talks.html",
+    "href": "portfolio/talks.html",
+    "title": "Vorträge",
+    "section": "",
+    "text": "(Künstlich) Intelligente Hochschullehre\nVideo\nWie KI die Lehre verändert (und warum das etwas gutes ist)\nVideo\nChatbot: Revolution or Hype?\nVideo",
+    "crumbs": [
+      "Portfolio",
+      "Vorträge"
+    ]
+  },
+  {
+    "objectID": "portfolio/talks.html#ki-in-der-lehre",
+    "href": "portfolio/talks.html#ki-in-der-lehre",
+    "title": "Vorträge",
+    "section": "",
+    "text": "(Künstlich) Intelligente Hochschullehre\nVideo\nWie KI die Lehre verändert (und warum das etwas gutes ist)\nVideo\nChatbot: Revolution or Hype?\nVideo",
+    "crumbs": [
+      "Portfolio",
+      "Vorträge"
+    ]
+  },
+  {
+    "objectID": "portfolio/talks.html#astrophysik",
+    "href": "portfolio/talks.html#astrophysik",
+    "title": "Vorträge",
+    "section": "Astrophysik",
+    "text": "Astrophysik\n\nDunkles Universum: Mit Euclid und KI zu den Sternen\nVideo\nRedshift Estimates for Fast Radio Bursts and implications on intergalactic magnetic fields\nVideo\nPreFRPBLE way to interpret Fast Radio Bursts\nVideo\nOrigin of Magnetic Fields – 3 Minute Thesis\nVideo",
+    "crumbs": [
+      "Portfolio",
+      "Vorträge"
+    ]
+  },
+  {
+    "objectID": "portfolio/workshops.html",
+    "href": "portfolio/workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "CAS Deep Learning, FHNW\nKI in der Lehre: Beginner, BFH\nDenken statt Delegieren, BFH\nCAS Hochschuldidaktik - Modul: KI in der Lehre, BFH\nKI am Arbeitsplatz, FHNW\nKI-Assistenten, FHNW\nCustomGPT Workshop, FHNW\nSelbstlernkurs: Didaktik mit KI, FHNW\n\nUnterricht planen\nUnterricht vorbereiten\nKI im Unterricht\nPrüfungen mit KI\nBewerten mit KI\n\n\n\n\n\n\n  Email    LinkedIn \n Back to top",
+    "crumbs": [
+      "Portfolio",
+      "Workshops"
+    ]
+  }
+]

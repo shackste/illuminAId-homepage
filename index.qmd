@@ -1,0 +1,92 @@
+---
+title: "illuminAId GmbH"  
+subtitle: "Brighter with AI"
+format:
+  html:
+    toc: false
+about:
+  template: marquee #trestles
+
+---
+
+::: {style="float: left; margin: 15px;"}
+![](assets/logo_bright_full.png){width=280}
+:::
+
+
+
+
+Künstliche Intelligenz hält Einzug in immer mehr Bereiche des Lebens, der Arbeit und des Lernens.
+Die umfangreichen Fähigkeiten moderner KI-Systeme zeigen deutlich deren Potential eine revolutionäre Technologie für die Informationsverarbeitung zu werden, änhlich wie zuvor Smartphone, Computer oder Buchdruck.
+Es zeigt sich aber auch, dass der unbedarfte Einsatz dieser Technologie trotz bester Absichten grossen Schaden anrichten kann.
+Dies geschieht zumeist wegen mangelnden Verständnis der Möglichkeiten und Grenzen von KI.
+Der Auftrag der illuminAId GmbH ist die Gesellschaft zu produktivem, gewissenhaftem und nachhaltigem Umgang mit dieser disruptiven Technologie zu befähigen.
+
+
+## Was
+
+Die illuminAId GmbH begleitet Sie dabei auf der gesamten Strecke, von der Entwicklung erster Ideen bis zur Implementation Ihrer eigenen Lösung mit
+- individuellen Beratungen zu
+  - der Entwicklung und Planung realistischer und gewinnbringender Einsatzmöglichkeiten von KI
+  - Möglichkeiten menschliche Arbeit zu unterstützen, statt billig zu ersetzen.
+  - den benötigten Kenntnissen zum produktiven Einsatz.
+- Schulungen von praxisorientierten KI Kenntnisse, zugeschnitten auf 
+  - Angestellte
+  - Lehrkräfte
+  - Schueler und Studenten
+  - Forschende
+  - Führungskräfte
+- Hosting von personalisierten KI Modellen mit Europäischer bzw Schweizer Jurisdiktion und Datenschutzstandards
+
+
+In den Schulungen der illuminAId GmbH erwartet Sie mehr als eine Anleitung zum Prompten moderner KI-Systeme. Hier lernen Sie, 
+- wozu sind KI-Systeme tatsächlich fähig?
+- wo liefern sie Mehrwert, wo nicht?
+- wie wichtig ist die menschliche Komponente in dem Prozess?
+- wie kann KI Arbeit die eigenen Fähigkeiten erweitern, statt Kompetenzen abzugeben?
+Sie lernen nicht einfach nur ein neues Tool zu bedienen, sondern vielmehr eine Arbeitsweise mit der Sie sich das revolutienäre Potential dieser Technologie zu Nutze machen können.
+
+Das Schulungsangebot basiert auf Lehrveranstaltungen entwickelt und erprobt an der [Fachhochschule Nordwestschweiz](https://www.fhnw.ch/de/die-fhnw/standorte/brugg-windisch) sowie [Berner Fachhochschule](https://www.bfh.ch/).
+
+
+
+
+
+## Wer
+
+Gründer dieser Ein-Personen GmbH ist Dr. Stefan Hackstein, promovierter Physiker (Kosmologie) sowie Dozent für Datenwissenschaften und KI in der Lehre/Praxis.
+Seit 2015 in der Hochschullehre, seit 2021 als Datenwissenschaftler tätig, fokussiert er sich seit 2023 auf den Einsatz von KI in der Lehre.
+Er verbindet brennende Leidenschaft für Didaktik und Kognitionswissennschaften sowie ganzheitliches, systemisches Denken mit einem kritischen Verständnis von KI Prozessen.
+Sein Talent komplexe Systematiken eingängig, humorvoll und praxisnah zu vermitteln, machen seine Veranstaltungen zu einem einzigartigen Erlebnis.
+[Mehr informationen zu Person und Schaffen](https://shackste.github.io/stefan-hackstein-portfolio/)
+
+## Wo, Wann & Wie
+
+Gerne planen wir gemeinsam eine fuer Sie passende Beratung oder Veranstaltung, ob bei Ihnen vor Ort oder Online.
+Wenn Sie bereits konkrete Wünsche haben, senden Sie diese einfach per E-Mail und erhalten ein dafür passendes Angebot.
+
+
+
+Kontakt:
+
+<info@illuminAId.de>
+
+
+## Warum 
+
+Die **Philosophie** der illuminAId GmbH wird im Logo repräsentiert:
+
+- Das Neuronale Netzwerk ist nach oben gerichtet. Das steht für die Überzeugung:  
+  **Der gewissenhafte Einsatz von KI ermöglicht eine positive Entwicklung**  
+- Das Neuronale Netzwerk steht auf dem Wortteil "illumin" (Bed.: erleuchten, aufklären). Das bedeutet:  
+  **Die konstruktive Nutzung von KI ein benötigt entsprechendes Verständnis.**.
+- Der Text "illumin Aid GmbH" macht klar:  
+  **Dieses Verständnis hilft Unternehmen.**  
+  Dabei steht die GmbH stellvertretend für die Gesamtheit aller Gewerbe.
+- Das Gesamtbild: Die GmbH ist ein Frachter auf offener See, dem der Leuchtturm den Weg zum Verständnis weist.  
+  **Die illuminAId GmbH vermittelt das nötige Verständnis um KI konstruktiv einzusetzen.**
+- Ein anderer Blick auf das gesamte Bild: Das Neuronale Netzwerk ist der Elfenbeinturm, der sowohl fuer KI-Eliten als auch das Bildungssystem steht. Das Verständnis "illumin" ist das Fundament dieses Turms, die Hilfe "AId" bereitet der GmbH den Weg dorthin.  
+  **Die illuminAId GmbH schafft ein solides KI-Verständnis in der Bildung**  
+  **und erhellt den Weg zu einer gewinnbringenden KI-Nutzung.**  
+  **Brighter with AI.**
+

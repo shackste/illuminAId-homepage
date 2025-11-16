@@ -1,0 +1,223 @@
+project:
+  type: website
+  resources:
+    - assets/**
+  preview:
+    port: 8800
+    browser: false
+  output-dir: docs
+  render:
+    - index.qmd
+    - portfolio/**
+    - slides/**
+    - pages/**
+    
+website:
+  title: "illuminAId GmbH i. G."
+  site-url: https://www.illuminAId.eu
+  favicon: assets/logo_basic.ico
+  open-graph: true
+  search:
+    location: navbar
+    type: overlay
+    
+  body-footer: |
+    <div style="text-align:center; font-size:0.9em; margin-top:2rem;">
+      <a href="mailto:info@illuminAId.de" style="margin-right: 1em;">
+        <i class="bi bi-inbox-fill"></i> Email
+      </a>
+      <a href="https://www.linkedin.com/company/illuminaid-gmbh">
+        <i class="bi bi-linkedin"></i> LinkedIn
+      </a>
+    </div>
+
+
+  reader-mode: false
+  page-navigation: true
+  back-to-top-navigation: true
+ 
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: pages/services/index.qmd
+        text: Leistungen
+
+      - href: pages/contact/index.qmd
+        text: Kontakt
+
+      - href: pages/impressum/index.qmd
+        text: Impressum
+
+      - href: index.qmd
+        text: <em>Website befindet sich im Aufbau</em>
+        
+
+format:
+  html:
+    embed-resources: false
+    theme:
+      - default
+      - styles/custom.scss
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+    anchor-sections: true
+    smooth-scroll: true
+    linkcolor: rebeccapurple
+
+comments:
+  hypothesis:
+    theme: clean
+
+execute:
+  cache: true
+  freeze: auto
+  execute-dir: project
+
+editor:
+  render-on-save: true
+
+revealjs-plugins:
+  - attribution
+filters:
+  - timer
+  - custom-callout
+
+custom-callout:
+  # todo:
+  #   icon-symbol: "📝"
+  #   collapse: true
+  #   color: "pink"
+
+  # thumbs-up:
+  #   title: "Great job!"
+  #   icon-symbol: "👍🏼"
+  #   color: "steelblue"
+
+  # Activity Types
+  individual:
+    title: "Individual Work"
+    icon-symbol: "💻"
+    color: "steelblue"
+    collapse: false
+
+  pair:
+    title: "Pair Work"
+    icon-symbol: "👥"
+    color: "forestgreen"
+    collapse: false
+
+  group:
+    title: "Group Work"
+    icon-symbol: "👥"
+    color: "purple"
+    collapse: false
+
+  screens-down:
+    title: "Screens Down"
+    icon-symbol: "🔽"
+    color: "orange"
+    collapse: false
+
+  screens-up:
+    title: "Screens Up"
+    icon-symbol: "🔼"
+    color: "green"
+    collapse: false
+
+  # Learning Process
+  try:
+    title: "Try It"
+    icon-symbol: "🔄"
+    color: "blue"
+    collapse: false
+
+  reflect:
+    title: "Reflection"
+    icon-symbol: "💭"
+    color: "purple"
+    collapse: false
+
+  feedback:
+    title: "Feedback"
+    icon-symbol: "📝"
+    color: "teal"
+    collapse: true
+
+  caution:
+    title: "Watch Out"
+    icon-symbol: "⚠️"
+    color: "orange"
+    collapse: true
+
+  pro-tip:
+    title: "Pro Tip"
+    icon-symbol: "💡"
+    color: "gold"
+    collapse: true
+
+  # Technical Elements
+  prompt-example:
+    title: "Example Prompt:"
+    icon-symbol: "👩🏼‍🔧"
+    color: "steelblue"
+    collapse: false
+
+  tutor-example:
+    title: "Tutor:"
+    icon-symbol: "📄"
+    color: "purple"
+    collapse: false
+
+  prompt-template:
+    title: "Prompt Template"
+    icon-symbol: "📋"
+    color: "indigo"
+    collapse: true
+
+  testing:
+    title: "Test Your Prompt"
+    icon-symbol: "🧪"
+    color: "green"
+    collapse: false
+
+  export:
+    title: "Export"
+    icon-symbol: "📤"
+    color: "brown"
+    collapse: true
+
+  # Workshop Flow
+  setup:
+    title: "Setup"
+    icon-symbol: "⚙️"
+    color: "gray"
+    collapse: true
+
+  timing:
+    title: "Time Check"
+    icon-symbol: "⏱️"
+    color: "red"
+    collapse: false
+
+  break:
+    title: "Break Time"
+    icon-symbol: "☕"
+    color: "yellow"
+    collapse: false
+
+  checkpoint:
+    title: "Checkpoint"
+    icon-symbol: "🎯"
+    color: "purple"
+    collapse: false
+
+  schedule:
+    title: "Schedule"
+    icon-symbol: "⏰︎"
+    color: "steelblue"
+    collapse: false
+
