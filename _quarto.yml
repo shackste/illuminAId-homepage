@@ -54,6 +54,13 @@ website:
       - href: slides/index.qmd
         text: <em>Website befindet sich im Aufbau</em>
         
+  sidebar: 
+    - title: "Slides"
+      id: slides_sidebar
+      contents:
+        - slides/index.qmd
+        - text: "17.11.2025 - KI in der Lehre"
+          href: slides/17.11.25-KI-in-der-Lehre/index.qmd
 
 format:
   html:
