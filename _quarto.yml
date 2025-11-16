@@ -24,7 +24,7 @@ website:
   body-footer: |
     <div style="text-align:center; font-size:0.9em; margin-top:2rem;">
       <a href="mailto:info@illuminAId.de" style="margin-right: 1em;">
-        <i class="bi bi-inbox-fill"></i> Email
+        <i class="bi bi-inbox-fill"></i> info@illuminAId.de 
       </a>
       <a href="https://www.linkedin.com/company/illuminaid-gmbh">
         <i class="bi bi-linkedin"></i> LinkedIn
