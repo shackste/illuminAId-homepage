@@ -26,6 +26,7 @@ Der Auftrag der illuminAId GmbH ist die Gesellschaft zu produktivem, gewissenhaf
 ## Was
 
 Die illuminAId GmbH begleitet Sie dabei auf der gesamten Strecke, von der Entwicklung erster Ideen bis zur Implementation Ihrer eigenen Lösung mit
+
 - individuellen Beratungen zu
   - der Entwicklung und Planung realistischer und gewinnbringender Einsatzmöglichkeiten von KI
   - Möglichkeiten menschliche Arbeit zu unterstützen, statt billig zu ersetzen.
@@ -40,6 +41,7 @@ Die illuminAId GmbH begleitet Sie dabei auf der gesamten Strecke, von der Entwic
 
 
 In den Schulungen der illuminAId GmbH erwartet Sie mehr als eine Anleitung zum Prompten moderner KI-Systeme. Hier lernen Sie, 
+
 - wozu sind KI-Systeme tatsächlich fähig?
 - wo liefern sie Mehrwert, wo nicht?
 - wie wichtig ist die menschliche Komponente in dem Prozess?
