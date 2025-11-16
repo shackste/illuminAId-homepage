@@ -9,3 +9,5 @@ This is an overview of all sets of slides.
 ## 17. Nov 2025
 
 [KI in der Lehre](17.11.25-KI-in-der-Lehre/index.qmd)
+
+<a href="17.11.25-KI-in-der-Lehre/index.qmd" target="_self">KI in der Lehre</a>
