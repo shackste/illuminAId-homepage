@@ -79,7 +79,7 @@ format:
     include-in-header:
       text: |
         <a href="https://www.illuminaid.eu">
-          <img src="assets/logo_bright_full.png" class="bottom-left-logo" alt="Website logo">
+          <img src="/assets/logo_bright_full.png" class="bottom-left-logo" alt="Website logo">
         </a>
 
 comments:
