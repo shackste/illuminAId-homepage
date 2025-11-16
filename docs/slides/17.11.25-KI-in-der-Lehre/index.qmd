@@ -5,12 +5,10 @@ title: KI in der Lehre
 <iframe src="slides/index.html" width="576" height="420" title="KI in der Lehre" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [fullscreen](slides/index.html)
-
-
-::: {layout-ncol=2}
+  
+  
 
 <a href="ki-lehre.pdf">Download slides as PDF</a>
 
 {{< qrcode https://shackste.github.io/illuminAId-homepage/slides/17.11.25-KI-in-der-Lehre/ki-lehre.pdf>}}
 
-:::

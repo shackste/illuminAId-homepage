@@ -1,6 +1,5 @@
 ---
-title: "illuminAId GmbH"  
-subtitle: "Brighter with AI"
+title: <img src="/assets/logo_basic.png" width="450" height="auto" fig-alt="illuminAId GmbH">
 format:
   html:
     toc: false
@@ -9,12 +8,7 @@ about:
 
 ---
 
-::: {style="float: left; margin: 15px;"}
-![](assets/logo_bright_full.png){width=280}
-:::
-
-
-
+## Wieso?
 
 Künstliche Intelligenz hält Einzug in immer mehr Bereiche des Lebens, der Arbeit und des Lernens.
 Die umfangreichen Fähigkeiten moderner KI-Systeme zeigen deutlich deren Potential eine revolutionäre Technologie für die Informationsverarbeitung zu werden, änhlich wie zuvor Smartphone, Computer oder Buchdruck.
@@ -23,7 +17,7 @@ Dies geschieht zumeist wegen mangelnden Verständnis der Möglichkeiten und Gren
 Der Auftrag der illuminAId GmbH ist die Gesellschaft zu produktivem, gewissenhaftem und nachhaltigem Umgang mit dieser disruptiven Technologie zu befähigen.
 
 
-## Was
+## Was?
 
 Die illuminAId GmbH begleitet Sie dabei auf der gesamten Strecke, von der Entwicklung erster Ideen bis zur Implementation Ihrer eigenen Lösung mit
 
@@ -54,13 +48,30 @@ Das Schulungsangebot basiert auf Lehrveranstaltungen entwickelt und erprobt an d
 
 
 
-## Wer
+## Wer?
 
+:::: {.columns}
+
+::: {.column width="75%"}
 Gründer dieser Ein-Personen GmbH ist Dr. Stefan Hackstein, promovierter Physiker (Kosmologie) sowie Dozent für Datenwissenschaften und KI in der Lehre/Praxis.
-Seit 2015 in der Hochschullehre, seit 2021 als Datenwissenschaftler tätig, fokussiert er sich seit 2023 auf den Einsatz von KI in der Lehre.
-Er verbindet brennende Leidenschaft für Didaktik und Kognitionswissennschaften sowie ganzheitliches, systemisches Denken mit einem kritischen Verständnis von KI Prozessen.
+Seit 2015 in der Hochschullehre, seit 2021 als Datenwiss- enschaftler tätig, fokussiert er sich seit 2023 auf den Einsatz von KI in der Lehre.
+Er verbindet brennende Leidenschaft für Didaktik und Kognitions- wissennschaften sowie ganzheitliches, systemisches Denken mit einem kritischen Verständnis von KI Prozessen.
 Sein Talent komplexe Systematiken eingängig, humorvoll und praxisnah zu vermitteln, machen seine Veranstaltungen zu einem einzigartigen Erlebnis.
-[Mehr informationen zu Person und Schaffen](https://shackste.github.io/stefan-hackstein-portfolio/)
+
+:::
+
+::: {.column width="5%"}
+<!-- empty column for gap -->
+:::
+
+::: {.column width="20%"}
+[![](assets/me.png){width=480}](https://shackste.github.io/stefan-hackstein-portfolio/)
+
+[Mehr zur Person](https://shackste.github.io/stefan-hackstein-portfolio/)
+
+:::
+
+::::
 
 ## Wo, Wann & Wie
 

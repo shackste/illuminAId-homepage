@@ -33,6 +33,7 @@ website:
     </div>
 
 
+
   reader-mode: false
   page-navigation: true
   back-to-top-navigation: true
@@ -75,6 +76,11 @@ format:
     anchor-sections: true
     smooth-scroll: true
     linkcolor: rebeccapurple
+    include-in-header:
+      text: |
+        <a href="illuminaid.eu">
+          <img src="assets/logo_bright_full.png" class="bottom-left-logo" alt="Website logo">
+        </a>
 
 comments:
   hypothesis:
