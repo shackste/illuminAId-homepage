@@ -9,8 +9,8 @@ title: KI in der Lehre
 
 ::: {layout-ncol=2}
 
-<a href="ki-lehre.pdf" download>Download slides as PDF</a>
+<a href="ki-lehre.pdf">Download slides as PDF</a>
 
-{{< qrcode ki-lehre.pdf>}}
+{{< qrcode https://shackste.github.io/illuminAId-homepage/slides/17.11.25-KI-in-der-Lehre/ki-lehre.pdf>}}
 
 :::
