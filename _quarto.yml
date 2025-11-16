@@ -51,7 +51,7 @@ website:
       - href: pages/impressum/index.qmd
         text: Impressum
 
-      - href: pages/slides/index.qmd
+      - href: slides/index.qmd
         text: <em>Website befindet sich im Aufbau</em>
         
 
