@@ -1,3 +1,2 @@
-# Portfolio von Stefan Hackstein
+# Webpage of illuminAId GmbH
 
-This is my portfolio webpage. Here you can find information about me, my skills, projects and contact details.
