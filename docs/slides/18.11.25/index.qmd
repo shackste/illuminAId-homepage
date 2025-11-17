@@ -1,0 +1,36 @@
+---
+title: KI Basics
+---
+
+<a href="../KI-in-der-Lehre/ki-lehre.pdf">Download slides as PDF</a>
+
+{{< qrcode https://shackste.github.io/illuminAId-homepage/slides/ki-basics.pdf>}}
+
+
+
+<iframe src="../was-ist-KI/index.html" width="576" height="420" title="Was ist KI?" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[fullscreen](../was-ist-KI/index.html)
+  
+---
+  
+
+<iframe src="../was-sind-chatbots/index.html" width="576" height="420" title="Was sind Chatbots?" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[fullscreen](../was-sind-chatbots/index.html)
+  
+---
+
+<iframe src="../wie-chatbots-denken/index.html" width="576" height="420" title="Wie Chatbots denken" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[fullscreen](../wie-chatbots-denken/index.html)
+
+
+
+---
+  
+<iframe src="../moeglichkeiten-und-grenzen/index.html" width="576" height="420" title="Möglichkeiten und Grenzen" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[fullscreen](../moeglichkeiten-und-grenzen/index.html)
+  
+

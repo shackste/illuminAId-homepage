@@ -61,8 +61,10 @@ website:
       id: slides_sidebar
       contents:
         - slides/index.qmd
-        - text: "17.11.2025 - KI in der Lehre"
-          href: slides/17.11.25-KI-in-der-Lehre/index.qmd
+        - text: "18.11.2025"
+          href: slides/18.11.25/index.qmd
+        - text: "17.11.2025"
+          href: slides/17.11.25/index.qmd
 
 format:
   html:
